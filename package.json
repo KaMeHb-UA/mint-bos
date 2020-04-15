@@ -6,7 +6,7 @@
     "license": "MIT",
     "main": "index.js",
     "dependencies": {
-        "@mintpond/mint-precon": "^1.0.0"
+        "@mintpond/mint-precon": "git://github.com/MintPond/mint-precon.git"
     },
     "devDependencies": {
         "mocha": "^5.2.0"
